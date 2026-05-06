@@ -235,7 +235,7 @@ const ruleProviders = {
         ...ruleProviderCommon,
         behavior: "domain",
         url: "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo-lite/geosite/proxy.mrs",
-        path: "./rulesets/loyalsoldier/proxy.mrs",
+        path: "./ruleset/proxy.mrs",
     },
     gfw: {
         ...ruleProviderCommon,
