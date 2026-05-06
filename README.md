@@ -1,0 +1,1 @@
+# clash_global_config
